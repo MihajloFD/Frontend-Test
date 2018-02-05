@@ -1,0 +1,4 @@
+{
+  "API": "development-api-url",
+  "TIMEZONEDB_API": "http://api.timezonedb.com/v2/get-time-zone"
+}

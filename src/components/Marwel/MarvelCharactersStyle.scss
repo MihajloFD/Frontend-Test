@@ -1,0 +1,17 @@
+.marvelCharacterItem{
+  text-align: center;
+  img{
+    cursor: pointer;
+    // border-radius: 100px;
+  }
+}
+.pagination{
+  padding: 25px;
+  span{
+    padding: 5px 15px;
+    border: 1px solid black;
+  }
+}
+.pointer{
+  cursor: pointer;
+}

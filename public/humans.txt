@@ -1,0 +1,9 @@
+# Check it out: 
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
